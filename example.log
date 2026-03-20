@@ -1,0 +1,66 @@
+<6>[   1.000000]  (3)[2864:CarplayMonitor]addr: 10, transfer ACK error
+<6>[   1.000001]  (3)[2864:CarplayMonitor]i2c_dump_info ++++++++++++++++++++++++++++++++++++++++++
+<3>[   1.000002]  (3)[2864:CarplayMonitor]I2C structure:
+<3>[   1.000003] [I2C]Clk=24960000,Id=4,Op=2,Irq_stat=3,Total_len=2
+<3>[   1.000004] [I2C]Trans_len=2,Trans_num=1,Trans_auxlen=0,speed=400000
+<3>[   1.000005] [I2C]Trans_stop=1,cg_cnt=1,hs_only=1, ch_offset=256,ch_offset_default=256
+<6>[   1.000006]  (3)[2864:CarplayMonitor]base address 0xffffff800dfee000
+<6>[   1.000007]  (3)[2864:CarplayMonitor]I2C register:
+<6>[   1.000008] [I2C]SLAVE_ADDR=21,INTR_MASK=0,INTR_STAT=0,CONTROL=28,TRANSFER_LEN=2
+<6>[   1.000009] [I2C]TRANSAC_LEN=1,DELAY_LEN=2,TIMING=405,LTIMING=22,START=0,FIFO_STAT=1
+<6>[   1.000010] [I2C]IO_CONFIG=3,HS=0,DCM_EN=0,DEBUGSTAT=300,EXT_CONF=1801,TRANSFER_LEN_AUX=2
+<6>[   1.000011]  (3)[2864:CarplayMonitor]before enable DMA register(0x0):
+<6>[   1.000012] [I2C]INT_FLAG=0,INT_EN=0,EN=0,RST=0,
+<6>[   1.000013] [I2C]STOP=0,FLUSH=0,CON=0,TX_MEM_ADDR=0, RX_MEM_ADDR=0
+<6>[   1.000014] [I2C]TX_LEN=0,RX_LEN=0,INT_BUF_SIZE=0,DEBUG_STATUS=0
+<6>[   1.000015] [I2C]TX_MEM_ADDR2=0, RX_MEM_ADDR2=0
+<6>[   1.000016]  (3)[2864:CarplayMonitor]DMA register(0xffffff800dff0100):
+<6>[   1.000017] [I2C]INT_FLAG=0,INT_EN=0,EN=0,RST=0,
+<6>[   1.000018] [I2C]STOP=0,FLUSH=0,CON=8,TX_MEM_ADDR=0, RX_MEM_ADDR=0
+<6>[   1.000019] [I2C]TX_LEN=0,RX_LEN=0,INT_BUF_SIZE=0,DEBUG_STATUS=0
+<6>[   1.000020] [I2C]TX_MEM_ADDR2=0, RX_MEM_ADDR2=0
+<6>[   1.000021]  (3)[2864:CarplayMonitor]i2c_dump_info ------------------------------------------
+<6>[   1.000022]  (3)[2864:CarplayMonitor]addr: 41, transfer ACK error
+<6>[   1.000023]  (3)[2864:CarplayMonitor]i2c_dump_info ++++++++++++++++++++++++++++++++++++++++++
+<3>[   1.000024]  (3)[2864:CarplayMonitor]I2C structure:
+<3>[   1.000025] [I2C]Clk=24960000,Id=4,Op=2,Irq_stat=3,Total_len=2
+<3>[   1.000026] [I2C]Trans_len=2,Trans_num=1,Trans_auxlen=0,speed=400000
+<3>[   1.000027] [I2C]Trans_stop=1,cg_cnt=1,hs_only=1, ch_offset=256,ch_offset_default=256
+<6>[   1.000028]  (3)[2864:CarplayMonitor]base address 0xffffff800dfee000
+<6>[   1.000029]  (3)[2864:CarplayMonitor]I2C register:
+<6>[   1.000030] [I2C]SLAVE_ADDR=21,INTR_MASK=0,INTR_STAT=0,CONTROL=28,TRANSFER_LEN=2
+<6>[   1.000031] [I2C]TRANSAC_LEN=1,DELAY_LEN=2,TIMING=405,LTIMING=22,START=0,FIFO_STAT=1
+<6>[   1.000032] [I2C]IO_CONFIG=3,HS=0,DCM_EN=0,DEBUGSTAT=300,EXT_CONF=1801,TRANSFER_LEN_AUX=2
+<6>[   1.000033]  (3)[2864:CarplayMonitor]before enable DMA register(0x0):
+<6>[   1.000034] [I2C]INT_FLAG=0,INT_EN=0,EN=0,RST=0,
+<6>[   1.000035] [I2C]STOP=0,FLUSH=0,CON=0,TX_MEM_ADDR=0, RX_MEM_ADDR=0
+<6>[   1.000036] [I2C]TX_LEN=0,RX_LEN=0,INT_BUF_SIZE=0,DEBUG_STATUS=0
+<6>[   1.000037] [I2C]TX_MEM_ADDR2=0, RX_MEM_ADDR2=0
+<6>[   1.000038]  (3)[2864:CarplayMonitor]DMA register(0xffffff800dff0100):
+<6>[   1.000039] [I2C]INT_FLAG=0,INT_EN=0,EN=0,RST=0,
+<6>[   1.000040] [I2C]STOP=0,FLUSH=0,CON=8,TX_MEM_ADDR=0, RX_MEM_ADDR=0
+<6>[   1.000041] [I2C]TX_LEN=0,RX_LEN=0,INT_BUF_SIZE=0,DEBUG_STATUS=0
+<6>[   1.000042] [I2C]TX_MEM_ADDR2=0, RX_MEM_ADDR2=0
+<6>[   1.000043]  (3)[2864:CarplayMonitor]i2c_dump_info ------------------------------------------
+<6>[   1.000044]  (3)[2864:CarplayMonitor]addr: 43, transfer ACK error
+<6>[   1.000045]  (3)[2864:CarplayMonitor]i2c_dump_info ++++++++++++++++++++++++++++++++++++++++++
+<3>[   1.000046]  (3)[2864:CarplayMonitor]I2C structure:
+<3>[   1.000047] [I2C]Clk=24960000,Id=4,Op=2,Irq_stat=3,Total_len=2
+<3>[   1.000048] [I2C]Trans_len=2,Trans_num=1,Trans_auxlen=0,speed=400000
+<3>[   1.000049] [I2C]Trans_stop=1,cg_cnt=1,hs_only=1, ch_offset=256,ch_offset_default=256
+<6>[   1.000050]  (3)[2864:CarplayMonitor]base address 0xffffff800dfee000
+<6>[   1.000051]  (3)[2864:CarplayMonitor]I2C register:
+<6>[   1.000052] [I2C]SLAVE_ADDR=21,INTR_MASK=0,INTR_STAT=0,CONTROL=28,TRANSFER_LEN=2
+<6>[   1.000053] [I2C]TRANSAC_LEN=1,DELAY_LEN=2,TIMING=405,LTIMING=22,START=0,FIFO_STAT=1
+<6>[   1.000054] [I2C]IO_CONFIG=3,HS=0,DCM_EN=0,DEBUGSTAT=300,EXT_CONF=1801,TRANSFER_LEN_AUX=2
+<6>[   1.000055]  (3)[2864:CarplayMonitor]before enable DMA register(0x0):
+<6>[   1.000056] [I2C]INT_FLAG=0,INT_EN=0,EN=0,RST=0,
+<6>[   1.000057] [I2C]STOP=0,FLUSH=0,CON=0,TX_MEM_ADDR=0, RX_MEM_ADDR=0
+<6>[   1.000058] [I2C]TX_LEN=0,RX_LEN=0,INT_BUF_SIZE=0,DEBUG_STATUS=0
+<6>[   1.000059] [I2C]TX_MEM_ADDR2=0, RX_MEM_ADDR2=0
+<6>[   1.000060]  (3)[2864:CarplayMonitor]DMA register(0xffffff800dff0100):
+<6>[   1.000061] [I2C]INT_FLAG=0,INT_EN=0,EN=0,RST=0,
+<6>[   1.000062] [I2C]STOP=0,FLUSH=0,CON=8,TX_MEM_ADDR=0, RX_MEM_ADDR=0
+<6>[   1.000063] [I2C]TX_LEN=0,RX_LEN=0,INT_BUF_SIZE=0,DEBUG_STATUS=0
+<6>[   1.000064] [I2C]TX_MEM_ADDR2=0, RX_MEM_ADDR2=0
+<6>[   1.000065]  (3)[2864:CarplayMonitor]i2c_dump_info ------------------------------------------
